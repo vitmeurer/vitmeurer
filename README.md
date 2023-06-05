@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitoria+Meurer;I'm+21+years+old;+I+from+Brazil;I+am+a+student+of+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitmeurer&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=FF00FF&bg_color=000080" alt="Vitóra github stats" /> 
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitmeurer&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=FF00FF&bg_color=000080" alt="Vitoria Meurer github stats" /> 
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitmeurer&layout=compact&hide_border=true&title_color=ff91a4&text_color=FF00FF&bg_color=000080" />
   </div>
   
